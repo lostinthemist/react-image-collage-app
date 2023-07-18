@@ -7,6 +7,8 @@
 .image-collage-app {
   text-align: center;
   height: 100vh;
+  min-height: 900px;
+  overflow-y: scroll;
   display: flex;
   flex-direction: column;
   align-items: center;
